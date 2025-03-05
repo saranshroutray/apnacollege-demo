@@ -1,5 +1,4 @@
 # apnacollege-demo
 
-This is second GIT Repo
-
+This is second GIT Repo.
 Author - Saransh Routray
