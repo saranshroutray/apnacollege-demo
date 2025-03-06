@@ -2,4 +2,4 @@
 
 This is second GIT Repo.
 <br>
-Author - Saransh Routray
+Author - Saransh (Apna college)
